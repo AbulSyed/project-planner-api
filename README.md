@@ -4,8 +4,8 @@
 Endpoints
 ```
 
-> Create - [POST]
-http://localhost:3000/projects
+> Create
+https://syed-project-planner.herokuapp.com/projects
 
 
 ```javascript
@@ -15,14 +15,14 @@ http://localhost:3000/projects
 }
 ```
 ---
-> Read - [GET]
-Get all - http://localhost:3000/projects
+> Read
+Get all - https://syed-project-planner.herokuapp.com/projects
 
-> Get one - http://localhost:3000/projects/id
+> Get one - https://syed-project-planner.herokuapp.com/projects/id
 ---
 
-> Update - [PATCH]
-http://localhost:3000/projects/id
+> Update
+https://syed-project-planner.herokuapp.com/projects/id
 
 
 ```javascript
@@ -31,5 +31,5 @@ http://localhost:3000/projects/id
 }
 ```
 ---
-> Delete - [DELETE]
-http://localhost:3000/projects/id
+> Delete
+https://syed-project-planner.herokuapp.com/projects/id
